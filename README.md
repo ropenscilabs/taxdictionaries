@@ -1,7 +1,7 @@
 taxdictionaries
 ===============
 
-Hunspell dictionaries for taxonomic names, created primarily for the taxspell R package (https://github.com/ropenscilabs/taxspell)
+Hunspell dictionaries for taxonomic names, created primarily for the taxspell R package (https://github.com/sckott/taxspell)
 
 Right now the dictionary files have empty `.aff` files, and the `.dic` files have no rules.
 
